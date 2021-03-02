@@ -16,4 +16,3 @@
 # Create a message in chat room
 # See conversation for a chat room by it's id
 # Mark an entire conversation as read api
-]
